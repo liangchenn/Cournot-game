@@ -9,6 +9,8 @@ and yields the producing level of each production unit.
 This solver also allows firms to have sub-unit (i.e. firms will take each sub-unit's   
   
 profit into its optimization problem), which is controlled by the ownership matrix.  
+  
+For the method used in the function, please see https://github.com/liangchenn/Cournot-game/blob/master/CournotGame.pdf
 
 ## Usage
 ````
